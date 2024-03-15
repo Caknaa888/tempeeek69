@@ -1,0 +1,4 @@
+npm i tempeeek69
+npm init --scope=@tempeeek69
+npm adduser
+npm publish --access public
